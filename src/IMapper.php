@@ -2,8 +2,6 @@
 
 namespace Mapper\Map;
 
-
-
 interface IMapper
 {
     public function createMap(object $model, array $requests, ?string $hashing, ?string $dontSet): void;
