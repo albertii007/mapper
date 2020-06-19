@@ -1,0 +1,19 @@
+{
+    "name": "mapper/map",
+    "description": "This package makes easy to store data to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Albert Kunushevci",
+            "email": "albertii.kun@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mapper\\": "src/"
+        }
+    }
+}
