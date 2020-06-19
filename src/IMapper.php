@@ -1,6 +1,6 @@
 <?php
 
-namespace Mapper\src;
+namespace Mapper\Map;
 
 
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Mapper\src;
+namespace Mapper\Map;
 
-use Core\myvendor\functions\mapper\settings\MapperHashSettings;
+use Mapper\Map\settings\MapperHashSettings;
 
 class Mapper implements IMapper
 {

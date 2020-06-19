@@ -1,6 +1,6 @@
 <?php
 
-namespace Mapper\src\settings;
+namespace Mapper\Map\settings;
 
 use Illuminate\Support\Facades\Hash;
 
